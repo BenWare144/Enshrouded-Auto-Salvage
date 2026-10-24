@@ -1,0 +1,10 @@
+/build/
+/dist/
+*.obj
+*.lib
+*.exp
+*.pdb
+*.log
+AutoSalvage.rules*
+*.zip
+/.vs/
